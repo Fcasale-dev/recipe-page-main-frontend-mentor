@@ -16,4 +16,4 @@ Estilização moderna e minimalista para uma experiência de usuário agradável
 
 ## Como usar
 
-Clone este repositório: git clone https://github.com/Felipe020507/recipe-page-main-frontend-mentor.git
+Clone este repositório: git clone https://github.com/Fcasale-dev/recipe-page-main-frontend-mentor.git
